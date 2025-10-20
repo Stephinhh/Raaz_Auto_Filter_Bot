@@ -193,6 +193,8 @@ BAD_WORDS = {
     "villa",
     "tg",
     "original"
+    "mf"
+    "HDM_LINX"
 } # Set of bad words to filter out
    
 
