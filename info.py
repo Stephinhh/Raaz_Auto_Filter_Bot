@@ -50,7 +50,7 @@ PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002599350196'))  # Premium log
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1002673928898').split()] #(make sure bot is admin)
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1002385849652')  # Support group id (make sure bot is admin)
 reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002379102420')  # Request channel id (make sure bot is admin)
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/movie_zone3k')  # Support group link (make sure bot is admin)
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/')  # Support group link (make sure bot is admin)
 
 # FORCE_SUB 
 auth_req_channels = environ.get("AUTH_REQ_CHANNELS", "-1002379102420")# requst to join Channel for force sub (make sure bot is admin) only for bot ADMINS  
@@ -121,7 +121,7 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movie_zone3k') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/privet_userr') # Owner link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/mz_movie_zone3k') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/mz_movie_zone3k') # Update channel link for the bot
 
 # ============================
