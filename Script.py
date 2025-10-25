@@ -216,7 +216,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/movie_zone3k">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/movie_zone3k">[ MOVIE ZONE ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/movie_zone3k">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
