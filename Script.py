@@ -151,7 +151,7 @@ Nᴀᴍᴇ - {}
 
 📝 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-⚜️ ᴇxᴀᴍᴘʟᴇ : Loki S01✅ or Loki S01E04✅ or Lucifer S03E24✅
+⚜️ ᴇxᴀᴍᴘʟᴇ : Loki S01✅ or Loki S01E04✅ or Lucifer S03E24
 
 ⚠️ ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
     
@@ -216,7 +216,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/movie_zone3k">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/movie_zone3k">{file_name}</a></b>\n\n<b>♻️ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
