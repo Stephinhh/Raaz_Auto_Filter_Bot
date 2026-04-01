@@ -234,6 +234,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 {episodes}
 </blockquote>
 <b>♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>
+
 🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}
 """
 
