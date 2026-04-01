@@ -233,8 +233,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
 {episodes}
 </blockquote>
-
-🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
+<b>♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>
+🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}
 """
 
 
