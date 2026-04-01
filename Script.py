@@ -222,7 +222,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>ɴᴇᴡ {tag} ᴜᴘʟᴏᴀᴅᴇᴅ✅</a></b>
+</b><a href={poster_url}>📥</a><a href={imdb_url}>ɴᴇᴡ {tag} ʜᴅ ᴜᴘʟᴏᴀᴅᴇᴅ✅</a></b>
 
 <blockquote>🎬 ᴛɪᴛʟᴇ : <code>{filename}</code>
 
@@ -235,7 +235,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 </blockquote>
 <b>♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ : <a href="https://t.me/movie_zone3k">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>
 
-🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}🤖
+🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}
 """
 
 
