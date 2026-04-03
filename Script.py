@@ -232,9 +232,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
 {episodes}
 </blockquote>
-<b>♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ : <a href="https://t.me/+lBYx4L1c8jk0ZTg1">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>
 
 🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}
+<b>♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ : <a href="https://t.me/+lBYx4L1c8jk0ZTg1">[ 𝗠𝗼𝘃𝗶𝗲 𝘇𝗼𝗻𝗲™ ]</a></b>
 """
 
 
