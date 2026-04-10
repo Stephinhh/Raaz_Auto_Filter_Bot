@@ -319,9 +319,9 @@ async def send_movie_update(bot, base_name):
             text = generate_movie_message(movie_doc, base_name)
             buttons = InlineKeyboardMarkup([[
                 InlineKeyboardButton(
-                    '⬇️𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗻𝗼𝘄⬇️',
+                    '⬇️ 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗻𝗼𝘄 ⬇️',
                     url=f"https://t.me/{temp.U_NAME}?start=getfile-{base_name.replace(' ', '-')}")],
-                                            [InlineKeyboardButton("♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ", url="https://t.me/movie_zone3k"
+                                            [InlineKeyboardButton("♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ ♻️", url="https://t.me/movie_zone3k"
                 )
             ]])
 
@@ -369,9 +369,9 @@ async def update_movie_message(bot, base_name):
         text = generate_movie_message(movie_doc, base_name)
         buttons = InlineKeyboardMarkup([[
             InlineKeyboardButton(
-                '⬇️𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗻𝗼𝘄⬇️',
+                '⬇️ 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗻𝗼𝘄 ⬇️',
                 url=f"https://t.me/{temp.U_NAME}?start=getfile-{base_name.replace(' ', '-')}")], 
-                                        [InlineKeyboardButton("♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ", url="https://t.me/movie_zone3k"
+                                        [InlineKeyboardButton("♻️ ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ ♻️", url="https://t.me/movie_zone3k"
             )
         ]])
 
