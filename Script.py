@@ -223,13 +223,11 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥</a> <a href={imdb_url}> 𝗡𝗲𝘄 {tag}   𝗛𝗗 𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱✅</a></b>
 
-<blockquote>🎬 ᴛɪᴛʟᴇ : <code>{filename}</code>
+🎬 ᴛɪᴛʟᴇ : <code>{filename}</code>
 
-🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
-📺 ᴏᴛᴛ        : <b>{ott}</b>
+<blockquote>
 🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
-🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
-🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
+🔊 ᴀᴜᴅɪᴏ    : <b>{language}</b>
 {episodes}
 </blockquote>
 🔍 <b>Sᴇᴀʀᴄʜ ᴏɴ →</b> {search_link}
